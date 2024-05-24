@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class IfElse
 {
   public static void main(String[] args)
@@ -15,7 +15,7 @@ public class IfElse
     {
       System.out.println("February");
     }
-    else if
+    else
     {
       System.out.println("Invalid input");
     }
